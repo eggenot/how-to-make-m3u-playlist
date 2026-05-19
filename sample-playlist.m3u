@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:0,video 1 - ForBiggerJoyrides
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4
+#EXTINF:-1 tvg-id="show.breakingbad" tvg-name="Breaking Bad" tvg-logo="https://example.com" group-title="Crime Drama" type="series" series-id="breaking_bad_2008" season-num="1" episode-num="1", Pilot
+https://drive.google.com/uc?export=download&id=1kZshJE0hL8RfJN0qmT-lfzSejHqnGq7u
 
-#EXTINF:0,video 2 - BigBuckBunny
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+#EXTINF:-1 tvg-id="show.breakingbad" tvg-name="Breaking Bad" tvg-logo="https://example.com" group-title="Crime Drama" type="series" series-id="breaking_bad_2008" season-num="1" episode-num="2", Cat's in the Bag
+http://yourserver.com
 
-#EXTINF:0,video 3 - ElephantsDream
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
+#EXTINF:-1 tvg-id="show.breakingbad" tvg-name="Breaking Bad" tvg-logo="https://example.com" group-title="Crime Drama" type="series" series-id="breaking_bad_2008" season-num="2" episode-num="1", Seven Thirty-Seven
+http://yourserver.com
